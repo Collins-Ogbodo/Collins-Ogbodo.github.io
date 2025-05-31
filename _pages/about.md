@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -28,6 +28,8 @@ latest_posts:
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+I am a doctoral researcher passionate about decision support systems at the intersection of machine learning, structural engineering and digital twins. My research within the [Dynamic Research Group](https://drg.ac.uk/people/collins-ogbodo) focuses on the development of digital twin technologies to support decision making and improve structural dynamics testing in the energy, aircraft, infrastructure and space industry under the supervision of [Prof. David Wagg](https://drg.ac.uk/people/david-wagg) and [Dr Timothy Rogers](https://drg.ac.uk/people/timothy-rogers). Particularly, I develop frameworks that combine structural simulation, virtual testing and reinforcement learning to provide agent-based test support during systems testing, improving test outcome. My research is under the [University of Sheffield EPSRC DTP Case Conversion with Siemens Industry Software NV](https://gtr.ukri.org/projects?ref=studentship-2756020#/tabOverview) at the [School of Mechanical, Aerospace and Civil Engineering](https://www.sheffield.ac.uk/mac)
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
