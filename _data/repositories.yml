@@ -1,9 +1,14 @@
 github_users:
-  - Collins-Ogbodo
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - Collins-Ogbodo/DT-SS
-  - Collins-Ogbodo/CantiSens-RL-Env
-  - Collins-Ogbodo/Meta-Ax-RL-Hyperparameter-Optimization
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
