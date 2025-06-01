@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/epositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "A full-length academic-style CV is available on request, or just feel free to reach out on LinkedIn for more information!",
           section: "Navigation",
           handler: () => {
