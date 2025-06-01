@@ -1,12 +1,14 @@
 ---
-layout: profiles
+layout: page
 permalink: /awards/
 title: Awards
 description: Award and recongnitions
 nav: true
 nav_order: 7
 ---
+
 ## Awards
+
 - Postgraduate Researcher Experience Programme (PREP) grant 2025 
 - One League Presidential Scholarship 2024
 - UKRI-EPSRC and Siemens Digital Industries Software Studentship. 
