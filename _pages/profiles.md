@@ -2,12 +2,10 @@
 layout: page
 permalink: /awards/
 title: Awards
-description: Award and recongnitions
+description: Recongnitions
 nav: true
 nav_order: 7
 ---
-
-## Awards
 
 - Postgraduate Researcher Experience Programme (PREP) grant 2025 
 - One League Presidential Scholarship 2024
