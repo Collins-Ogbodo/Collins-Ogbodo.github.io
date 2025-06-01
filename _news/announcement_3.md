@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper on Mode Indicator Guided Sequential Modal Analysis accepted in the [International Conference on Noise and Vibration Engineering 2024](https://www.isma-isaac.be/)

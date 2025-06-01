@@ -9,7 +9,6 @@ nav_order: 7
 
 ## Upcoming
 
-- Tutorial on Federated Learning at [Medical Image Computing and Computer Assisted Intervention (MICCAI)](https://schedule.fl-tutorials.org/)
 
 ## Previous
 

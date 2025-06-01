@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Won the 2025 [Postgraduate Researcher Experience Programme (PREP)](https://students.sheffield.ac.uk/careers/researchers/prep)
