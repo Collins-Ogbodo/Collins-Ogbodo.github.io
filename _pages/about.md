@@ -29,7 +29,7 @@ latest_posts:
 
 I am a doctoral researcher passionate about decision support systems at the intersection of machine learning, structural engineering and digital twins. My research within the [Dynamic Research Group](https://drg.ac.uk/people/collins-ogbodo) focuses on the development of digital twin technologies to support decision making and improve structural dynamics testing in the energy, aircraft, infrastructure and space industry under the supervision of [Prof. David Wagg](https://drg.ac.uk/people/david-wagg) and [Dr Timothy Rogers](https://drg.ac.uk/people/timothy-rogers). 
 
-Particularly, I develop frameworks that combine structural simulation, virtual testing and reinforcement learning to provide agent-based test support during systems testing, improving test outcome. My research is under the [University of Sheffield EPSRC DTP Case Conversion with Siemens Industry Software NV](https://gtr.ukri.org/projects?ref=studentship-2756020#/tabOverview) at the [School of Mechanical, Aerospace and Civil Engineering](https://www.sheffield.ac.uk/mac)
+Particularly, I develop frameworks that combine structural simulation, virtual testing and reinforcement learning 🤖 to provide agent-based test support during systems testing, improving test outcome. My research is under the [University of Sheffield EPSRC DTP Case Conversion with Siemens Industry Software NV](https://gtr.ukri.org/projects?ref=studentship-2756020#/tabOverview) at the [School of Mechanical, Aerospace and Civil Engineering](https://www.sheffield.ac.uk/mac)
 
 My research interests include, but are not limited to:
 
