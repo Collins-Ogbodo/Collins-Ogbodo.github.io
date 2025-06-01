@@ -226,24 +226,24 @@
   ],
   "leadership": [
     {
-      "info": "Dynamics Research Group Seminar Organiser",
+      "name": "Dynamics Research Group Seminar Organiser",
       "icon": "",
-      "summary": "Coordinated seminars and knowledge-sharing sessions for PhD researchers."
+      "keywords": ["Coordinated seminars and knowledge-sharing sessions for PhD researchers."]
     },
     {
-      "info": "Co-founder – Penser L’Avenir",
+      "name": "Co-founder – Penser L’Avenir",
       "icon": "",
-      "summary": "Co-founded and grew a startup which provided professional engineering services to oil, gas and subsea companies in Nigeria."
+      "keywords": ["Co-founded and grew a startup which provided professional engineering services to oil, gas and subsea companies in Nigeria."]
     },
     {
-      "info": "Skoltech Student Council Coordinator",
+      "name": "Skoltech Student Council Coordinator",
       "icon": "",
-      "summary": "Improved council response time and student engagement significantly."
+      "keywords": ["Improved council response time and student engagement significantly."]
     },
     {
-      "info": "President – Chapel of Annunciation, Uniport",
+      "name": "President – Chapel of Annunciation, Uniport",
       "icon": "",
-      "summary": "Implemented an efficient organizational structure still in use today."
+      "skeywordsmmary": ["Implemented an efficient organizational structure still in use today."]
     }
   ]
 }
