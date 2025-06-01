@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-won-the-2025-postgraduate-researcher-experience-programme-prep",
-          title: 'Won the 2025 Postgraduate Researcher Experience Programme (PREP)',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-paper-on-mode-indicator-guided-sequential-modal-analysis-accepted-in-the-international-conference-on-noise-and-vibration-engineering-2024",
           title: 'Paper on Mode Indicator Guided Sequential Modal Analysis accepted in the International Conference...',
+          description: "",
+          section: "News",},{id: "news-paper-on-toward-dynamic-digital-twin-enhancing-model-accuracy-with-adaptive-sensor-steering-strategies-accepted-in-the-3rd-iacm-digital-twins-in-engineering-conference-dte-2025-amp-amp-1st-eccomas-artificial-intelligence-and-computational-methods-in-applied-science-aicomas-2025",
+          title: 'Paper on Toward Dynamic Digital Twin: Enhancing Model Accuracy with Adaptive Sensor Steering...',
+          description: "",
+          section: "News",},{id: "news-won-the-2025-postgraduate-researcher-experience-programme-prep",
+          title: 'Won the 2025 Postgraduate Researcher Experience Programme (PREP)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
