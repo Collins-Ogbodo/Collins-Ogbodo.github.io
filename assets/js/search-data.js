@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-awards",
           title: "Awards",
-          description: "Award and recongnitions",
+          description: "Recongnitions",
           section: "Navigation",
           handler: () => {
             window.location.href = "/awards/";
