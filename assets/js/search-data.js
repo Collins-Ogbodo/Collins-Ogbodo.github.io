@@ -83,11 +83,26 @@ ninja.data = [{
             window.location.href = "/2025/03/26/plotly.html";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-algorithms-for-decision-making",
+          title: 'Algorithms for Decision Making',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
+              window.location.href = "/books/Algorithms_for_Decision_Making.html";
+            },},{id: "books-deep-reinforcement-learning-in-action",
+          title: 'Deep Reinforcement Learning in Action',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Deep-Reinforcement-Learning-in-Action.html";
+            },},{id: "books-grokking-deep-reinforcement-learning",
+          title: 'Grokking Deep Reinforcement Learning',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Grokking_Deep_Reinforcement_Learning.html";
+            },},{id: "books-reinforcement-learning-an-introduction",
+          title: 'Reinforcement Learning  An Introduction',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Reinforcement_Learning-An_Introduction.html";
             },},{id: "news-paper-on-mode-indicator-guided-sequential-modal-analysis-accepted-in-the-international-conference-on-noise-and-vibration-engineering-2024",
           title: 'Paper on Mode Indicator Guided Sequential Modal Analysis accepted in the International Conference...',
           description: "",
