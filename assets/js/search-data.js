@@ -117,9 +117,9 @@ ninja.data = [{
           description: "BEng. (Hons) thesis project - Advised by Dr. Ofodu, J.C",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BEng_Thesis.html";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-development-of-simulation-based-digital-twin-for-smart-space-hvac-system-case-study-of-a-phytotron-system",
+          title: 'Development of Simulation-based Digital Twin for Smart Space HVAC System - Case Study...',
+          description: "MSc. (Hons) thesis project - Advised by Prof. Henni Ouerdane; Co-advised by Prof. Laurent Gentzbittel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MSc_Thesis.html";
             },},{
