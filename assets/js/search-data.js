@@ -112,11 +112,16 @@ ninja.data = [{
           section: "News",},{id: "news-won-the-2025-postgraduate-researcher-experience-programme-prep",
           title: 'Won the 2025 Postgraduate Researcher Experience Programme (PREP)',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-thermo-economic-analysis-of-stirling-enginer-integrated-power-plant",
+          title: 'Thermo-economic Analysis of Stirling Enginer Integrated Power Plant',
+          description: "BEng. (Hons) thesis project - Advised by Dr. Ofodu, J.C",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/BEng_Thesis.html";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MSc_Thesis.html";
             },},{
         id: 'social-email',
         title: 'email',
