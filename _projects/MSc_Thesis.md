@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Development of Simulation-based Digital Twin for Smart Space HVAC System : Case Study of a Phytotron System.
+title: Development of Simulation-based Digital Twin for Smart Space HVAC System - Case Study of a Phytotron System.
 description: MSc. (Hons) thesis project - Advised by Prof. Henni Ouerdane; Co-advised by Prof. Laurent Gentzbittel
 img: assets/img/MSc_Thesis.jpg
 importance: 1
