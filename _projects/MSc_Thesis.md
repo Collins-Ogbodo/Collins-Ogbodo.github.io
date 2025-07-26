@@ -4,8 +4,8 @@ title: Development of Simulation-based Digital Twin for Smart Space HVAC System 
 description: MSc. (Hons) thesis project - Advised by Prof. Henni Ouerdane; Co-advised by Prof. Laurent Gentzbittel
 img: assets/img/MSc_Thesis.jpg
 importance: 1
-category: MSC_Thesis
-related_publications:
+category: work
+related_publications: true
 ---
 
 Controlled Environment Agriculture (CEA) offers a solution to modern agricultural challenges such as urbanization, resource limitations, and energy efficiency. By automating systems and monitoring key factors like temperature, humidity, and carbon dioxide, CEA creates optimal conditions for year-round crop production. However, energy consumption remains a hurdle for sustainability.
