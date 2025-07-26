@@ -2,7 +2,7 @@
 layout: page
 title: Thermo-economic Analysis of Stirling Enginer Integrated Power Plant
 description: BEng. (Hons) thesis project - Advised by Dr. Ofodu, J.C
-img: assets/img/MSc_Thesis.jpg
+img: assets/img/BEng_Thesis.jpg
 importance: 1
 category: work
 related_publications: true
