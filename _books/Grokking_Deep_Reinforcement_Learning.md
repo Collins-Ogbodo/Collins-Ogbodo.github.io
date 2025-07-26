@@ -5,9 +5,9 @@ author: Miguel Morales
 cover: assets/img/book_covers/Grokking_Deep_Reinforcement_Learning.jpg
 olid:
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Reinforcement Learning
+categories: Reinforcement_Learning
 tags:
-buy_link: https://www.amazon.co.uk/Grokking-Reinforcement-Learning-Miguel-Morales/dp/1617295450/ref=sr_1_1?crid=MI923C470LRX&dib=eyJ2IjoiMSJ9.dluvtVNWLwcScayBgrrgS6NaMMg5ijWCEb7QnpwKi67GjHj071QN20LucGBJIEps.vL5QpK_Pp0vNnb_xdVHE0EkqQgbe1Va82sGScF_a2Yo&dib_tag=se&keywords=Grokking_Deep_Reinforcement_Learning&qid=1753535110&s=books&sprefix=grokking_deep_reinforcement_learning%2Cstripbooks%2C146&sr=1-1
+buy_link: "https://www.amazon.co.uk/Grokking-Reinforcement-Learning-Miguel-Morales/dp/1617295450/ref=sr_1_1?crid=MI923C470LRX&dib=eyJ2IjoiMSJ9.dluvtVNWLwcScayBgrrgS6NaMMg5ijWCEb7QnpwKi67GjHj071QN20LucGBJIEps.vL5QpK_Pp0vNnb_xdVHE0EkqQgbe1Va82sGScF_a2Yo&dib_tag=se&keywords=Grokking_Deep_Reinforcement_Learning&qid=1753535110&s=books&sprefix=grokking_deep_reinforcement_learning%2Cstripbooks%2C146&sr=1-1"
 started:
 finished:
 released:
