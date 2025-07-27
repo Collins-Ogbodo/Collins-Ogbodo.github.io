@@ -14,10 +14,24 @@ This research focuses on developing a simulation-based digital twin (DT) model f
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/MSc_Thesis.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/MSc_Thesis-0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Framework and Results.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/MSc_Thesis-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/MSc_Thesis-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/MSc_Thesis-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

@@ -2,7 +2,7 @@
 layout: page
 title: Thermo-economic Analysis of Stirling Enginer Integrated Power Plant
 description: BEng. (Hons) thesis project - Advised by Dr. Ofodu, J.C
-img: assets/img/BEng_Thesis.jpg
+img: assets/img/BSc_Thesis-0.jpg
 importance: 1
 category: work
 related_publications: true
@@ -12,9 +12,12 @@ This project investigates the integration of Stirling engines with gas turbines 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BSc_Thesis.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/BSc_Thesis-0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Methodology and Results
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/BSc_Thesis-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
