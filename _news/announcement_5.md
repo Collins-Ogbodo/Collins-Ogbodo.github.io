@@ -33,10 +33,6 @@ My day ended with a short tour of Bristol. The city felt alive—so many people 
 
 Overall, the visit was an amazing experience. I’m incredibly grateful to everyone at EDF UK, especially my contact person, for their time and generosity. Huge thanks also to the PREP team at the University of Sheffield for funding and supporting this initiative.
 
-#### P.S. 
-I did mix up my accommodation booking, which meant I spent more money on transportation and had to do a bit of damage control—but hey, it added some adventure to the trip!
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Bri-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
