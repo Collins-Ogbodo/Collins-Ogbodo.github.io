@@ -115,7 +115,12 @@ ninja.data = [{
           section: "News",},{id: "news-completed-my-first-peer-review-for-data-centric-engineering",
           title: 'Completed my first peer review for Data Centric Engineering.',
           description: "",
-          section: "News",},{id: "projects-thermo-economic-analysis-of-stirling-enginer-integrated-power-plant",
+          section: "News",},{id: "news-industry-visit-to-edf-uk-bristol-amp-gloucester-facilities",
+          title: 'Industry Visit to EDF UK – Bristol &amp;amp; Gloucester Facilities',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5.html";
+            },},{id: "projects-thermo-economic-analysis-of-stirling-enginer-integrated-power-plant",
           title: 'Thermo-economic Analysis of Stirling Enginer Integrated Power Plant',
           description: "BEng. (Hons) thesis project - Advised by Dr. Ofodu, J.C",
           section: "Projects",handler: () => {
