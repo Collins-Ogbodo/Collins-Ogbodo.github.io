@@ -120,7 +120,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5.html";
-            },},{id: "projects-thermo-economic-analysis-of-stirling-enginer-integrated-power-plant",
+            },},{id: "news-paper-on-decision-support-system-for-modal-testing-using-deep-reinforcement-learning-have-be-accepted-for-presentation-at-imac-xliv",
+          title: 'Paper on “Decision Support System for Modal Testing using Deep Reinforcement Learning” have...',
+          description: "",
+          section: "News",},{id: "projects-thermo-economic-analysis-of-stirling-enginer-integrated-power-plant",
           title: 'Thermo-economic Analysis of Stirling Enginer Integrated Power Plant',
           description: "BEng. (Hons) thesis project - Advised by Dr. Ofodu, J.C",
           section: "Projects",handler: () => {
