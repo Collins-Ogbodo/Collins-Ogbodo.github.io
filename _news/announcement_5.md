@@ -38,10 +38,21 @@ I did mix up my accommodation booking, which meant I spent more money on transpo
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Bri-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid 
+      loading="eager" 
+      path="assets/img/Bri-1.jpg" 
+      title="example image" 
+      class="img-fluid rounded z-depth-1 rotate-fix" 
+    %}
+  </div>
 </div>
+
+<style>
+.rotate-fix {
+  transform: rotate(90deg); /* Adjust to 90deg, 180deg, etc. if needed */
+}
+</style>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
