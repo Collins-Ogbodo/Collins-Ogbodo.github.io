@@ -2,7 +2,7 @@
 layout: page
 title: BAE Hawk Full Body Structural Test
 description: Modal analysis of an aircraft to understand dynamic behaviour. Facility - Laboratory for Verification and Validation (LVV)
-img: assets/img/hawk.jpg
+img: assets/img/Hawk.jpg
 importance: 1
 category: work
 related_publications: true
