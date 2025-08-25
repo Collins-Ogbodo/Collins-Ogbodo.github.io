@@ -126,9 +126,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-towards-agent-based-test-support-systems-an-unsupervised-environment-design-approach-on-arxiv",
           title: 'New preprint “Towards Agent-based Test Support Systems: An Unsupervised Environment Design Approach” on...',
           description: "",
-          section: "News",},{id: "projects-development-of-simulation-based-digital-twin-for-smart-space-hvac-system-case-study-of-a-phytotron-system",
-          title: 'Development of Simulation-based Digital Twin for Smart Space HVAC System - Case Study...',
-          description: "MSc. (Hons) thesis project - Advised by Prof. Henni Ouerdane; Co-advised by Prof. Laurent Gentzbittel",
+          section: "News",},{id: "projects-bae-hawk-full-body-structural-test",
+          title: 'BAE Hawk Full Body Structural Test',
+          description: "Modal analysis of an aircraft to understand dynamic behaviour. Facility - Laboratory for Verification and Validation (LVV)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BAE%20Hawk%20Structural%20Test.html";
             },},{id: "projects-thermo-economic-analysis-of-stirling-enginer-integrated-power-plant",
