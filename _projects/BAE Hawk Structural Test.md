@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Development of Simulation-based Digital Twin for Smart Space HVAC System - Case Study of a Phytotron System.
-description: MSc. (Hons) thesis project - Advised by Prof. Henni Ouerdane; Co-advised by Prof. Laurent Gentzbittel
-img: assets/img/MSc_Thesis-0.jpg
+title: BAE Hawk Full Body Structural Test
+description: Modal analysis of an aircraft to understand dynamic behaviour. Facility - Laboratory for Verification and Validation (LVV)
+img: assets/img/hawk.jpg
 importance: 1
 category: work
 related_publications: true
