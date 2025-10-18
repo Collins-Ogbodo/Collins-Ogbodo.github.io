@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Flander AI Research Day 2025 at Wintercircus, Ghent
+title: Flander AI Research Day 2025 at Wintercircus, Ghent, Belgium
 date: 2025-10-15
 inline: false
 related_posts: false
 ---
-This week Wednesday 15th 2025 I attended the Flander AI Research day. The event brought together over 130 doctoral candidate, many other company, academic institution and start up. Discussion focused on AI application in engineering and had so many presentations.
+This week Wednesday 15th 2025 I attended the Flander AI Research day. The event brought together over 130 doctoral candidate, many other company, academic institution and start ups. Discussion focused on AI application in engineering and had so many presentations.
 
 ---
 
 ## Summary
-I had a great time and learnt a lot. I also interaction with a lot of the researchers and company about their research and products. I attended the following seminars 
+I had a great time and learnt a lot. I also interacted with many researchers and company about their research and products. I attended the following seminars sessions 
 
 ###  Human-Aware Technology for Optimization 
 Tias Guns (KULeuven)

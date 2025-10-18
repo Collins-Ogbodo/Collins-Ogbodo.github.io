@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I made into ASML PhD Master Class Autum Session
+title: I made it into ASML PhD Master Class Autum Session
 date: 2025-10-10
 inline: false
 related_posts: false
