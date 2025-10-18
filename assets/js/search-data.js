@@ -126,13 +126,13 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-towards-agent-based-test-support-systems-an-unsupervised-environment-design-approach-on-arxiv",
           title: 'New preprint “Towards Agent-based Test Support Systems: An Unsupervised Environment Design Approach” on...',
           description: "",
-          section: "News",},{id: "news-i-made-into-asml-phd-master-class-autum-session",
-          title: 'I made into ASML PhD Master Class Autum Session',
+          section: "News",},{id: "news-i-made-it-into-asml-phd-master-class-autum-session",
+          title: 'I made it into ASML PhD Master Class Autum Session',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9.html";
-            },},{id: "news-flander-ai-research-day-2025-at-wintercircus-ghent",
-          title: 'Flander AI Research Day 2025 at Wintercircus, Ghent',
+            },},{id: "news-flander-ai-research-day-2025-at-wintercircus-ghent-belgium",
+          title: 'Flander AI Research Day 2025 at Wintercircus, Ghent, Belgium',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8.html";
