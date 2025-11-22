@@ -136,7 +136,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8.html";
-            },},{id: "projects-bae-hawk-full-body-structural-test",
+            },},{id: "news-i-joined-more-than-fifty-phd-students-and-postdocs-for-the-autumn-asml-phd-masterclass-last-weekend-the-two-day-event-was-intensive-and-highly-informative-for-exploring-industry-career-options-ahead-of-graduation-while-many-details-are-confidential-we-worked-in-small-teams-on-a-practical-case-study-focused-on-optics-alongside-participants-from-physics-and-engineering-backgrounds-the-programme-included-technical-briefings-and-hands-on-sessions-that-gave-me-a-clearer-view-of-how-research-maps-to-industrial-practice-i-also-had-productive-conversations-with-asml-engineers-about-day-to-day-life-in-the-company-and-what-it-s-like-to-work-in-large-tech-organisations-summary-the-masterclass-broadened-my-understanding-of-semiconductor-lithography-in-particular-asml-s-high-na-euv-euv-and-duv-systems-and-highlighted-the-complexity-and-interdisciplinary-nature-of-these-machines-the-case-study-and-discussions-offered-useful-insights-into-research-industry-collaboration-career-pathways-in-industry-and-practical-challenges-in-the-semi-conductor-industry-p-s-still-exploring-career-options-in-industry-and-grateful-for-the-exposure-and-connections-from-this-event",
+          title: 'I joined more than fifty PhD students and postdocs for the autumn ASML...',
+          description: "",
+          section: "News",},{id: "projects-bae-hawk-full-body-structural-test",
           title: 'BAE Hawk Full Body Structural Test',
           description: "Modal analysis of an aircraft to understand dynamic behaviour. Facility - Laboratory for Verification and Validation (LVV)",
           section: "Projects",handler: () => {
