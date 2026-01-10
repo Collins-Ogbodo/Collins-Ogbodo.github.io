@@ -141,7 +141,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10.html";
-            },},{id: "news-our-paper-on-adaptive-sensor-steering-strategy-using-deep-reinforcement-learning-for-dynamic-data-acquisition-in-digital-twins-has-now-been-accepted-and-published-in-the-royal-society-proceeding-a-paper",
+            },},{id: "news-our-paper-on-adaptive-sensor-steering-strategy-using-deep-reinforcement-learning-for-dynamic-data-acquisition-in-digital-twins-has-now-been-accepted-and-published-in-the-royal-society-proceeding-a",
           title: 'Our paper on “Adaptive sensor steering strategy using deep reinforcement learning for dynamic...',
           description: "",
           section: "News",},{id: "projects-bae-hawk-full-body-structural-test",
