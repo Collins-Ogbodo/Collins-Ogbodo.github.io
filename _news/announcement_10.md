@@ -2,7 +2,7 @@
 layout: post
 title: ASML PhD Masterclass Experience
 date: 2025-11-22
-inline: True
+inline: false
 related_posts: false
 ---
 I joined more than fifty PhD students and postdocs for the autumn ASML PhD Masterclass last weekend. The two-day event was intensive and highly informative for exploring industry career options ahead of graduation. While many details are confidential, we worked in small teams on a practical case study focused on optics alongside participants from physics and engineering backgrounds. 
