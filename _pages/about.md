@@ -35,6 +35,8 @@ My research interests include, but are not limited to:
 
 - Scientific Machine Learning
 - Digital Twins
+- Reinforcement Learning
+- Open-ended Optimisation
 - Structural Dynamics
 - Energy Systems
 - Mechanical Engineering
