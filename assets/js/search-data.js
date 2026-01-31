@@ -98,11 +98,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Grokking_Deep_Reinforcement_Learning.html";
+            },},{id: "books-introduction-to-probability",
+          title: 'Introduction to Probability',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Introduction_to_Probability.html";
+            },},{id: "books-mechanical-vibration",
+          title: 'Mechanical Vibration',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Mechanical_Vibration.html";
+            },},{id: "books-multi-agent-reinforcement-learning",
+          title: 'Multi-Agent Reinforcement Learning',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Multi-Agent_Reinforcement_Learning.html";
             },},{id: "books-reinforcement-learning-an-introduction",
           title: 'Reinforcement Learning  An Introduction',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Reinforcement_Learning-An_Introduction.html";
+            },},{id: "books-theoretical-and-experimental-modal-analysis",
+          title: 'Theoretical and Experimental Modal Analysis',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Theoretical_and_Experimental_Modal_Analysis.html";
             },},{id: "news-paper-on-mode-indicator-guided-sequential-modal-analysis-accepted-in-the-international-conference-on-noise-and-vibration-engineering-2024",
           title: 'Paper on Mode Indicator Guided Sequential Modal Analysis accepted in the International Conference...',
           description: "",
