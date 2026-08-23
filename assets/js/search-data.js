@@ -164,7 +164,15 @@ ninja.data = [{
             },},{id: "news-our-paper-on-adaptive-sensor-steering-strategy-using-deep-reinforcement-learning-for-dynamic-data-acquisition-in-digital-twins-has-now-been-accepted-and-published-in-the-royal-society-proceeding-a",
           title: 'Our paper on “Adaptive sensor steering strategy using deep reinforcement learning for dynamic...',
           description: "",
-          section: "News",},{id: "projects-bae-hawk-full-body-structural-test",
+          section: "News",},{id: "news-our-paper-on-adaptive-sensor-steering-strategy-using-deep-reinforcement-learning-for-dynamic-data-acquisition-in-digital-twins-has-now-been-accepted-and-published-in-the-royal-society-proceeding-a",
+          title: 'Our paper on “Adaptive sensor steering strategy using deep reinforcement learning for dynamic...',
+          description: "",
+          section: "News",},{id: "news-won-best-presentation-late-phds-category-at-the-2026-engineering-researcher-symposium",
+          title: 'Won best presentation (late PhDs category) at the 2026 Engineering Researcher Symposium',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_13.html";
+            },},{id: "projects-bae-hawk-full-body-structural-test",
           title: 'BAE Hawk Full Body Structural Test',
           description: "Modal analysis of an aircraft to understand dynamic behaviour. Facility - Laboratory for Verification and Validation (LVV)",
           section: "Projects",handler: () => {
