@@ -164,10 +164,12 @@ ninja.data = [{
             },},{id: "news-our-paper-on-adaptive-sensor-steering-strategy-using-deep-reinforcement-learning-for-dynamic-data-acquisition-in-digital-twins-has-now-been-accepted-and-published-in-the-royal-society-proceeding-a",
           title: 'Our paper on “Adaptive sensor steering strategy using deep reinforcement learning for dynamic...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-adaptive-sensor-steering-strategy-using-deep-reinforcement-learning-for-dynamic-data-acquisition-in-digital-twins-has-now-been-accepted-and-published-in-the-royal-society-proceeding-a",
-          title: 'Our paper on “Adaptive sensor steering strategy using deep reinforcement learning for dynamic...',
+          section: "News",},{id: "news-internship-at-siemens-digital-industries-software-leuven-belgium",
+          title: 'Internship at Siemens Digital Industries Software, Leuven, Belgium',
           description: "",
-          section: "News",},{id: "news-won-best-presentation-late-phds-category-at-the-2026-engineering-researcher-symposium",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12.html";
+            },},{id: "news-won-best-presentation-late-phds-category-at-the-2026-engineering-researcher-symposium",
           title: 'Won best presentation (late PhDs category) at the 2026 Engineering Researcher Symposium',
           description: "",
           section: "News",handler: () => {
