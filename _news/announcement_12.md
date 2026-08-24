@@ -5,17 +5,27 @@ date: 2026-02-14
 inline: false
 related_posts: false
 ---
-This week Wednesday 15th 2025 I attended the Flander AI Research day. The event brought together over 130 doctoral candidate, many other company, academic institution and start ups. Discussion focused on AI application in engineering and had so many presentations.
+As part of my doctoral research, I worked across industry and academia on virtual vibration testing, structural dynamics, digital twins, and reinforcement learning. The secondment provided an opportunity to connect high-fidelity experimental and numerical modelling with emerging intelligent test-design methods.
 
----
+## Siemens Digital Industries Software
 
-## Summary
-I had a great time and learnt a lot. I also interacted with many researchers and company about their research and products. I attended the following seminars sessions 
+At Siemens, I worked on virtual shaker testing frameworks for spacecraft qualification. My work included:
 
-###  Human-Aware Technology for Optimization 
-Tias Guns (KULeuven)
+- Scaling and enhancing virtual shaker testing methods using advanced frequency-based substructuring (FBS), enabling more accurate prediction of shaker-structure interactions and reducing physical test risk.
+- Designing and modelling complex aerospace-emulator test structures to validate hybrid FBS-based virtual shaker methodologies, integrating measured and simulated frequency response functions (FRFs) to build high-fidelity virtual systems.
+- Characterising the dynamic behaviour of a high-capacity slip-table shaker, including its active and driving-point FRFs, to support real-time virtual test execution.
+- Collaborating with a multidisciplinary team to integrate finite-element models, experimental data, and real-time execution workflows for scalable virtual vibration test environments.
+- Supporting the transition from emulation to hybrid simulation workflows, enabling earlier test planning, derisking, and greater confidence in spacecraft vibration qualification strategies.
 
-Combinatorial optimisation is widely used to solve scheduling, sequencing, rostering, routing and other assignment problems. The traditional paradigm is that of model+solve, where an expert user expresses their problem in constraints and a highly efficient solver searches for the optimal solution. To make this approach more human-aware, we will revisit this into the model+solve+explain paradigm. We'll cover recent work on LLM-based translation from natural language to formal combinatorial problem specifications; on tools to compare CP/ILP/PB/SAT solvers from a single specification; and on explainable constraint solving techniques that allow explaining why there is no (better) solution, or how to best deal with disruptions. We end the talk by showing how we are further developing these techniques on Flanders Make's multi-agent high-mix low-volume assembly scheduling use case, where human and robot workers collaborate in specialized product assembly.
+## KU Leuven
+
+At KU Leuven, I developed and applied reinforcement-learning and unsupervised-environment-design methods for intelligent sensing and structural testing. This work included:
+
+- Developing a manifold-constrained adversarially compounding complexity by editing levels (mc-ACCEL) framework for open-ended reinforcement learning in digital-twin-based structural health monitoring.
+- Applying unsupervised environment design to the optimisation of modal tests at the Labo Voertuigtechnologie en Lichtgewicht-constructies (LVL), combining reinforcement learning with physics-based structural-dynamics constraints to improve sensor placement, test efficiency, and structural insight.
+- Designing a vibration test jig for the [CubeSpec CubeSat spectrometer](https://fys.kuleuven.be/ster/instruments/cubespec), supporting pedagogical qualification testing on a G&#x26;W DSA4-8k shaker.
+
+This secondment strengthened the connection between simulation, experimentation, and intelligent decision-making in structural testing, while providing valuable experience across both industrial and academic research environments.
 
 
 <div class="row">
