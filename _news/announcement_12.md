@@ -25,7 +25,7 @@ At KU Leuven, I developed and applied reinforcement-learning and unsupervised-en
 - Applying unsupervised environment design to the optimisation of modal tests at the Labo Voertuigtechnologie en Lichtgewicht-constructies (LVL), combining reinforcement learning with physics-based structural-dynamics constraints to improve sensor placement, test efficiency, and structural insight.
 - Designing a vibration test jig for the [CubeSpec CubeSat spectrometer](https://fys.kuleuven.be/ster/instruments/cubespec), supporting pedagogical qualification testing on a G&#x26;W DSA4-8k shaker.
 
-This secondment strengthened the connection between simulation, experimentation, and intelligent decision-making in structural testing, while providing valuable experience across both industrial and academic research environments.
+This secondment strengthened the connection between simulation, experimentation, and intelligent decision-making in structural testing, while providing valuable experience across both industrial and academic research environments. Many thanks to my supervisors Prof. David Wagg, Dr. Timothy Rogers and Dr. Mattia Dal Borgo.
 
 
 <div class="row">
